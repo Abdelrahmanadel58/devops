@@ -1,3 +1,6 @@
+ssh-keygen -t rsa -b 4069 -C "Abdelrahmanadel58@gmail.com"
+copy link and connect with github
+
 1 - git config --global user.name "Abdelrahmanadel58"
 
 2 - git config --global user.email Abdelrahmanadel58@gmail.com
@@ -19,4 +22,4 @@
 
 10- git remote add origin git@github.com:Abdelrahmanadel58/devops.git
 
-11- 
+11- git push origin main
