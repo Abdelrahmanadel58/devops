@@ -1,0 +1,22 @@
+1 - git config --global user.name "Abdelrahmanadel58"
+
+2 - git config --global user.email Abdelrahmanadel58@gmail.com
+
+3 - git config --global core.editor vi
+
+4 - git init
+
+5 - touch Abdelrahman-Adel-Mahmoud
+
+6 - git add Abdelrahman-Adel-Mahmoud
+
+7 - git commit -m "add file for lab 2"
+
+8 - vi Abdelrahman-Adel-Mahmoud 
+	and insert data
+
+9 - git branch -M main
+
+10- git remote add origin git@github.com:Abdelrahmanadel58/devops.git
+
+11- 
