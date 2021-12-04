@@ -55,4 +55,10 @@ lab3
 2 - git push --tags
 3 - git tag
 4 - git tag -d v1.4
-5 - 
+5 - mkdir images
+6 - cp image to images
+7 - touch README.md
+8 - add https://github.com/Abdelrahmanadel58/devops/blob/main/images/photo-1501265976582-c1e1b0bbaf63.jpeg
+9 - git add --all
+10- git commit "images"
+11- git push origin main
