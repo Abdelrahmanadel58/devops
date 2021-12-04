@@ -45,3 +45,14 @@ lab 2
 15- git push origin :test
 16- git branch -d dev
 17- git branch -d test
+
+
+
+
+lab3
+
+1 - git tag -a v1.4 -m "add tag"
+2 - git push --tags
+3 - git tag
+4 - git tag -d v1.4
+5 - 
